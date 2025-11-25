@@ -34,3 +34,10 @@
     La etiqueta "funciona" como etiqueta de apertura y cierre
 
     Nota: No necesita usar "/" al principio, y si se pone debe ponerse al final de la etiqueta
+
+- Enlaces (url)
+    etiqueta <a href="">
+
+    Nota: Es una mala practica utilizar ruta absoluta, lo correcto es usar ruta relativa
+
+    Es una mala practica utilizar la "url" cuando se revisa una pagina web desde el ordenador de desarrollo, pues la IP hace referencia al propio equipo, porque buscan la información en el propio ordenador

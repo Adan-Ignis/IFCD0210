@@ -29,3 +29,8 @@
     etiqueta <blockquote>
 
     Nota: No necesita usarse la etiqueta <p> porque hace de contenedor
+
+- Etiqueta de autocierre
+    La etiqueta "funciona" como etiqueta de apertura y cierre
+
+    Nota: No necesita usar "/" al principio, y si se pone debe ponerse al final de la etiqueta

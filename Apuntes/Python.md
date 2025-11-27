@@ -14,4 +14,4 @@ Compartir carpeta en red
 
     Ejemplo: 192.168.1.1:8000
 
-    Nota: Se cierra la carpeta cuando se cierra el terminal 
+    Nota: Se cierra la carpeta cuando se cierra el terminal

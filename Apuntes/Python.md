@@ -13,3 +13,5 @@ Compartir carpeta en red
     En el cliente debe abrir el navegador y poner la IP del otro equipo, dos puntos, 8000 sin espacios
 
     Ejemplo: 192.168.1.1:8000
+
+    Nota: Se cierra la carpeta cuando se cierra el terminal

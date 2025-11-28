@@ -29,7 +29,7 @@ Aplicar estilo por etiqueta
 Aplicar estilo por id
     Se pone "#" y luego sin espacios se pone el nombre del id
 
-    Nota: Solamente se puede tener un id por CSS
+    Nota: Solamente se puede tener un solo id en cada pagina y no lo puede compartir otra etiqueta aunque sea la misma
 
 Aplicar estilo por class
     Se pone lo que hay dentro de class y luego dentro de "{}" se aplicara a todas las etiquetas que tenga esa clase

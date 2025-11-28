@@ -51,7 +51,11 @@
         alt - Cuando la imagen no aparece aparecera lo que hay en alt, tambien los lectores de paginas para ciegos leeran lo que hay en alt
             alt - Texto descriptivo para cuando la imagen no aparece
             title -  
-            figcaption - Texto visible debajo de la imagen, independientemente si la imagen se ve o no
+            figcaption - Texto visible debajo de la imagen, independientemente si la imagen se ve o no. Es una etiqueta
+
+            Nota: no se recomienda poner lo mismo en los tres porque sino los lectores de pagina para ciegos repetira lo mismo tres veces.
+
+            El profesor no ha sabido explicarme las diferencias por lo que entiendo que son practicamente lo mismo
         width - Marca el numero de pixeles que tiene a lo ancho
         height - Marca el numero de pixeles que tiene a lo alto
 

@@ -22,3 +22,16 @@ Como aplicar un CSS a un archivo html
         3 - El ultimo archivo CSS se aplicara
 
             Si un html se le implementa varios archivos CSS se le aplicara el ultimo que se implemento en el html
+
+Aplicar estilo por etiqueta
+    Se pone el nombre de la etiqueta y luego se pone "{}" dentro de estas se pone los atributos que se quiere aplicar al html
+
+Aplicar estilo por id
+    Se pone "#" y luego sin espacios se pone el nombre del id
+
+    Nota: Solamente se puede tener un id por CSS
+
+Aplicar estilo en general
+    se pone "*{}" y todo lo que hay dentro de "{}" se aplicara a todo lo que hay en el html sin excepciones de ningún tipo
+
+    Nota: Se le conoce como "selector universal"

@@ -31,6 +31,9 @@ Aplicar estilo por id
 
     Nota: Solamente se puede tener un id por CSS
 
+Aplicar estilo por class
+    Se pone lo que hay dentro de class y luego dentro de "{}" se aplicara a todas las etiquetas que tenga esa clase
+
 Aplicar estilo en general
     se pone "*{}" y todo lo que hay dentro de "{}" se aplicara a todo lo que hay en el html sin excepciones de ningún tipo
 

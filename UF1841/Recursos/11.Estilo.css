@@ -1,5 +1,12 @@
+/* Hola */
+
 h3 {
     font-size: 25px;
     color: rgb(44, 191, 224);
     font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+/* Selector por id del html */
+#inicio {
+
 }

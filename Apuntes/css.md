@@ -6,3 +6,19 @@ Como aplicar un CSS a un archivo html
         2 - Definir los elementos del CSS dentro del head del html, y se aplica a cada elemento del html
 
         3 - Poner un enlace del archivo CSS en el archivo html, y se aplica a cada html que lo "implemente"
+
+    Nota: Hay una jerarquia a la hora de aplicarse el CSS, siguiendo las siguientes reglas:
+
+        1 - Cercania, se aplicara el más cercano, teniendo el siguiente orden (de más cercano a más lejano):
+
+            1 - CSS dentro de la propia etiqueta
+            2 - CSS dentro del head del html
+            3 - Archivo CSS independiente del html
+
+        2 - Lo ultimo se aplicara.
+
+            Si dentro del CSS se configura el mismo atributo, se aplicara el ultimo en aparecer.
+
+        3 - El ultimo archivo CSS se aplicara
+
+            Si un html se le implementa varios archivos CSS se le aplicara el ultimo que se implemento en el html
